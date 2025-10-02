@@ -1,0 +1,14 @@
+{
+  "codename": "fronttiengvietindam",
+  "ttf_path": "/assets/Montserrat-ExtraBold.ttf",
+  "bin_path": "/assets\\ui_font_fronttiengvietindam.bin",
+  "c_path": "/assets\\ui_font_fronttiengvietindam.c",
+  "cfg_path": "/assets\\ui_font_fronttiengvietindam.fcfg",
+  "size": 18,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [],
+  "symbols": "+,-./0123456789:!\"#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ°",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
