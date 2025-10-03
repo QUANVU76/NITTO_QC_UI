@@ -1,0 +1,14 @@
+{
+  "codename": "tiengviet20",
+  "ttf_path": "/assets/Montserrat-SemiBoldItalic.ttf",
+  "bin_path": "/assets\\ui_font_tiengviet20.bin",
+  "c_path": "/assets\\ui_font_tiengviet20.c",
+  "cfg_path": "/assets\\ui_font_tiengviet20.fcfg",
+  "size": 20,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [],
+  "symbols": "+,-./0123456789:!\"#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ°",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
