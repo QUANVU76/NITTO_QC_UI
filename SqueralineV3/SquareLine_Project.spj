@@ -8139,6 +8139,12 @@
                         "InheritedType": 1
                       },
                       {
+                        "nid": 100,
+                        "strtype": "OBJECT/Hidden",
+                        "strval": "True",
+                        "InheritedType": 2
+                      },
+                      {
                         "nid": 225,
                         "flags": 1048576,
                         "strtype": "OBJECT/Scrolling",
@@ -16724,7 +16730,7 @@
     "uiExportFolderPath": "D:\\HoangTam\\NITTO_QC\\QCBox2025\\src\\UI",
     "projectExportFolderPath": "D:\\HoangTam\\NITTO_QC\\QCBox2025\\src\\UI",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 176,
+    "backup_cnt": 177,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",
