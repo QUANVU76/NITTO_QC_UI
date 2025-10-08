@@ -1,0 +1,16 @@
+{
+  "codename": "sevenseg35",
+  "ttf_path": "/assets/DSEG7Classic-BoldItalic.ttf",
+  "bin_path": "/assets\\ui_font_sevenseg35.bin",
+  "c_path": "/assets\\ui_font_sevenseg35.c",
+  "cfg_path": "/assets\\ui_font_sevenseg35.fcfg",
+  "size": 38,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
