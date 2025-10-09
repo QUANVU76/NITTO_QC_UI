@@ -6942,7 +6942,7 @@
                     "strtype": "OBJECT/Position",
                     "intarray": [
                       0,
-                      3
+                      -1
                     ],
                     "InheritedType": 7
                   },
@@ -7030,7 +7030,7 @@
                   {
                     "nid": 1020,
                     "strtype": "IMAGE/Asset",
-                    "strval": "assets/SADSA.png",
+                    "strval": "assets/dashboardcompelet.png",
                     "InheritedType": 5
                   },
                   {
@@ -7719,6 +7719,17 @@
                             "strval": "DEFAULT",
                             "childs": [
                               {
+                                "nid": 10410,
+                                "strtype": "_style/Text_Color",
+                                "intarray": [
+                                  255,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
                                 "strval": "tiengvietindam18",
@@ -8387,6 +8398,17 @@
                             "strval": "DEFAULT",
                             "childs": [
                               {
+                                "nid": 10410,
+                                "strtype": "_style/Text_Color",
+                                "intarray": [
+                                  255,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
                                 "strval": "tiengvietindam18",
@@ -8716,8 +8738,8 @@
                         "flags": 17,
                         "strtype": "OBJECT/Position",
                         "intarray": [
-                          0,
-                          -97
+                          1,
+                          -102
                         ],
                         "InheritedType": 7
                       },
@@ -8799,13 +8821,13 @@
                       {
                         "nid": 1030,
                         "strtype": "LABEL/Text",
-                        "strval": "PQC-123",
+                        "strval": "PQC-88",
                         "InheritedType": 10
                       },
                       {
                         "nid": 1040,
                         "strtype": "LABEL/Recolor",
-                        "strval": "False",
+                        "strval": "True",
                         "InheritedType": 2
                       },
                       {
@@ -8830,7 +8852,7 @@
                               {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
-                                "strval": "tiengvietindam20",
+                                "strval": "tiengvietsieudam24",
                                 "InheritedType": 3
                               }
                             ],
@@ -8909,6 +8931,7 @@
                       },
                       {
                         "nid": 90,
+                        "flags": 1048576,
                         "strtype": "OBJECT/Flags",
                         "InheritedType": 1
                       },
@@ -8983,7 +9006,7 @@
                       {
                         "nid": 1040,
                         "strtype": "SLIDER/Value",
-                        "integer": 80,
+                        "integer": 90,
                         "InheritedType": 6
                       },
                       {
@@ -9014,23 +9037,6 @@
                                   0
                                 ],
                                 "InheritedType": 7
-                              },
-                              {
-                                "nid": 10710,
-                                "strtype": "_style/Border_Color",
-                                "intarray": [
-                                  0,
-                                  0,
-                                  0,
-                                  255
-                                ],
-                                "InheritedType": 7
-                              },
-                              {
-                                "nid": 10720,
-                                "strtype": "_style/Border width",
-                                "integer": 2,
-                                "InheritedType": 6
                               }
                             ],
                             "InheritedType": 1
@@ -9058,10 +9064,10 @@
                                 "nid": 10520,
                                 "strtype": "_style/Bg_Color",
                                 "intarray": [
-                                  162,
-                                  195,
-                                  26,
-                                  255
+                                  239,
+                                  221,
+                                  21,
+                                  200
                                 ],
                                 "InheritedType": 7
                               }
@@ -9163,7 +9169,7 @@
                         "strtype": "OBJECT/Position",
                         "intarray": [
                           -78,
-                          24
+                          25
                         ],
                         "InheritedType": 7
                       },
@@ -9239,7 +9245,6 @@
                       },
                       {
                         "nid": 1010,
-                        "flags": 1048576,
                         "strtype": "SLIDER/Slider",
                         "InheritedType": 1
                       },
@@ -9261,7 +9266,7 @@
                       {
                         "nid": 1040,
                         "strtype": "SLIDER/Value",
-                        "integer": 50,
+                        "integer": 80,
                         "InheritedType": 6
                       },
                       {
@@ -9286,29 +9291,12 @@
                                 "nid": 10520,
                                 "strtype": "_style/Bg_Color",
                                 "intarray": [
-                                  255,
-                                  255,
+                                  0,
+                                  156,
                                   255,
                                   0
                                 ],
                                 "InheritedType": 7
-                              },
-                              {
-                                "nid": 10710,
-                                "strtype": "_style/Border_Color",
-                                "intarray": [
-                                  0,
-                                  0,
-                                  0,
-                                  255
-                                ],
-                                "InheritedType": 7
-                              },
-                              {
-                                "nid": 10720,
-                                "strtype": "_style/Border width",
-                                "integer": 2,
-                                "InheritedType": 6
                               }
                             ],
                             "InheritedType": 1
@@ -9336,10 +9324,10 @@
                                 "nid": 10520,
                                 "strtype": "_style/Bg_Color",
                                 "intarray": [
-                                  0,
-                                  156,
-                                  255,
-                                  255
+                                  53,
+                                  229,
+                                  85,
+                                  200
                                 ],
                                 "InheritedType": 7
                               }
@@ -9469,12 +9457,6 @@
                         "InheritedType": 1
                       },
                       {
-                        "nid": 100,
-                        "strtype": "OBJECT/Hidden",
-                        "strval": "True",
-                        "InheritedType": 2
-                      },
-                      {
                         "nid": 110,
                         "strtype": "OBJECT/Clickable",
                         "strval": "False",
@@ -9576,23 +9558,6 @@
                                   0
                                 ],
                                 "InheritedType": 7
-                              },
-                              {
-                                "nid": 10710,
-                                "strtype": "_style/Border_Color",
-                                "intarray": [
-                                  0,
-                                  0,
-                                  0,
-                                  255
-                                ],
-                                "InheritedType": 7
-                              },
-                              {
-                                "nid": 10720,
-                                "strtype": "_style/Border width",
-                                "integer": 2,
-                                "InheritedType": 6
                               }
                             ],
                             "InheritedType": 1
@@ -9620,10 +9585,10 @@
                                 "nid": 10520,
                                 "strtype": "_style/Bg_Color",
                                 "intarray": [
-                                  37,
-                                  198,
-                                  37,
-                                  255
+                                  57,
+                                  202,
+                                  90,
+                                  200
                                 ],
                                 "InheritedType": 7
                               }
@@ -9825,10 +9790,32 @@
                             "strval": "DEFAULT",
                             "childs": [
                               {
+                                "nid": 10410,
+                                "strtype": "_style/Text_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_14",
+                                "strval": "tiengvietindam20",
                                 "InheritedType": 3
+                              },
+                              {
+                                "nid": 10710,
+                                "strtype": "_style/Border_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
                               }
                             ],
                             "InheritedType": 1
@@ -9984,9 +9971,20 @@
                             "strval": "DEFAULT",
                             "childs": [
                               {
+                                "nid": 10410,
+                                "strtype": "_style/Text_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_14",
+                                "strval": "tiengvietindam20",
                                 "InheritedType": 3
                               }
                             ],
@@ -10083,14 +10081,13 @@
                       },
                       {
                         "nid": 225,
-                        "flags": 1048576,
                         "strtype": "OBJECT/Scrolling",
                         "InheritedType": 1
                       },
                       {
                         "nid": 300,
                         "strtype": "OBJECT/Scrollbar_mode",
-                        "strval": "AUTO",
+                        "strval": "OFF",
                         "InheritedType": 3
                       },
                       {
@@ -10134,7 +10131,7 @@
                       {
                         "nid": 1030,
                         "strtype": "ARC/Value",
-                        "integer": 50,
+                        "integer": 80,
                         "InheritedType": 6
                       },
                       {
@@ -10165,17 +10162,6 @@
                             "strtype": "_style/StyleState",
                             "strval": "DEFAULT",
                             "childs": [
-                              {
-                                "nid": 10310,
-                                "strtype": "_style/Arc_Color",
-                                "intarray": [
-                                  65,
-                                  64,
-                                  64,
-                                  255
-                                ],
-                                "InheritedType": 7
-                              },
                               {
                                 "nid": 10320,
                                 "strtype": "_style/Arc_Width",
@@ -10209,9 +10195,9 @@
                                 "nid": 10310,
                                 "strtype": "_style/Arc_Color",
                                 "intarray": [
-                                  67,
-                                  145,
-                                  65,
+                                  53,
+                                  229,
+                                  85,
                                   255
                                 ],
                                 "InheritedType": 7
@@ -10428,7 +10414,7 @@
                               {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_18",
+                                "strval": "tiengvietindam20",
                                 "InheritedType": 3
                               }
                             ],
@@ -10787,7 +10773,7 @@
                     "strtype": "OBJECT/Position",
                     "intarray": [
                       0,
-                      41
+                      37
                     ],
                     "InheritedType": 7
                   },
@@ -10908,8 +10894,7 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "PANEL",
-                "tree_closed": true
+                "saved_objtypeKey": "PANEL"
               },
               {
                 "guid": "GUID92231757-814105S9764272",
@@ -19050,7 +19035,7 @@
     "uiExportFolderPath": "D:\\HoangTam\\NITTO_QC\\QCBox2025\\src\\UI",
     "projectExportFolderPath": "D:\\HoangTam\\NITTO_QC\\QCBox2025\\src\\UI",
     "custom_variable_prefix": "uic",
-    "backup_cnt": 196,
+    "backup_cnt": 202,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",

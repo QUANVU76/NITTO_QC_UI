@@ -1,0 +1,14 @@
+{
+  "codename": "tiengvietsieudam24",
+  "ttf_path": "/assets/Montserrat-Black.ttf",
+  "bin_path": "/assets\\ui_font_tiengvietsieudam24.bin",
+  "c_path": "/assets\\ui_font_tiengvietsieudam24.c",
+  "cfg_path": "/assets\\ui_font_tiengvietsieudam24.fcfg",
+  "size": 28,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [],
+  "symbols": "+,-./0123456789:!\"#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ° \u0085",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
