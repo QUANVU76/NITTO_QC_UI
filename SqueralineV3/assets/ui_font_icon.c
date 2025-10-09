@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Size: 35 px
  * Bpp: 4
- * Opts: --bpp 4 --size 35 --font D:/HoangTam/NITTO_QC/Squeraline_T/assets/Montserrat-Bold1-2.ttf -o D:/HoangTam/NITTO_QC/Squeraline_T/assets\ui_font_icon.c --format lvgl --symbols +,-./0123456789:!#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ°  --no-compress --no-prefilter
+ * Opts: --bpp 4 --size 35 --font D:/HoangTam/NITTO_QC/Squeraline_T/assets/Montserrat-Bold1-2.ttf -o D:/HoangTam/NITTO_QC/Squeraline_T/assets\ui_font_Icon.c --format lvgl --symbols +,-./0123456789:!#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ°  --no-compress --no-prefilter
  ******************************************************************************/
 
 #include "../ui.h"
@@ -6410,9 +6410,9 @@ static lv_font_fmt_txt_dsc_t font_dsc = {
 
 /*Initialize a public general font descriptor*/
 #if LVGL_VERSION_MAJOR >= 8
-const lv_font_t ui_font_icon = {
+const lv_font_t ui_font_Icon = {
 #else
-lv_font_t ui_font_icon = {
+lv_font_t ui_font_Icon = {
 #endif
     .get_glyph_dsc = lv_font_get_glyph_dsc_fmt_txt,    /*Function pointer to get glyph's data*/
     .get_glyph_bitmap = lv_font_get_bitmap_fmt_txt,    /*Function pointer to get glyph's bitmap*/
