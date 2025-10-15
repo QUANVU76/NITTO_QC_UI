@@ -3361,7 +3361,7 @@
                       {
                         "nid": 10,
                         "strtype": "OBJECT/Name",
-                        "strval": "lblComplete",
+                        "strval": "lblOkCounter",
                         "InheritedType": 10
                       },
                       {
@@ -3871,7 +3871,7 @@
                       {
                         "nid": 10,
                         "strtype": "OBJECT/Name",
-                        "strval": "lblCounterOk",
+                        "strval": "lblInput",
                         "InheritedType": 10
                       },
                       {
@@ -4006,9 +4006,9 @@
                                 "nid": 10410,
                                 "strtype": "_style/Text_Color",
                                 "intarray": [
-                                  154,
-                                  162,
-                                  19,
+                                  208,
+                                  219,
+                                  22,
                                   255
                                 ],
                                 "InheritedType": 7
@@ -4040,7 +4040,7 @@
                       {
                         "nid": 10,
                         "strtype": "OBJECT/Name",
-                        "strval": "lblCounterNg",
+                        "strval": "lblNgCounter",
                         "InheritedType": 10
                       },
                       {
@@ -17666,7 +17666,7 @@
     "theme_color1": 5,
     "theme_color2": 0,
     "custom_variable_prefix": "uic",
-    "backup_cnt": 235,
+    "backup_cnt": 237,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",
