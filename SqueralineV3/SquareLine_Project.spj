@@ -1680,7 +1680,7 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      -4,
+                      -10,
                       1
                     ],
                     "InheritedType": 7
@@ -1838,7 +1838,7 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      126,
+                      128,
                       -5
                     ],
                     "InheritedType": 7
@@ -2227,8 +2227,7 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "CONTAINER",
-            "tree_closed": true
+            "saved_objtypeKey": "CONTAINER"
           },
           {
             "guid": "GUID13521727-814052S19134272",
@@ -2274,8 +2273,8 @@
                     "flags": 17,
                     "strtype": "OBJECT/Position",
                     "intarray": [
-                      7,
-                      2
+                      8,
+                      1
                     ],
                     "InheritedType": 7
                   },
@@ -2377,7 +2376,7 @@
                           {
                             "nid": 10450,
                             "strtype": "_style/Text_Font",
-                            "strval": "tiengvietbinhthong20",
+                            "strval": "AnhNhatVietFont",
                             "InheritedType": 3
                           }
                         ],
@@ -3702,7 +3701,7 @@
                       {
                         "nid": 10,
                         "strtype": "OBJECT/Name",
-                        "strval": "lblLotCurrent",
+                        "strval": "lblLotCounter",
                         "InheritedType": 10
                       },
                       {
@@ -5060,7 +5059,7 @@
                       {
                         "nid": 10,
                         "strtype": "OBJECT/Name",
-                        "strval": "btLostSetting",
+                        "strval": "btnLotSetting",
                         "InheritedType": 10
                       },
                       {
@@ -5817,7 +5816,7 @@
                           {
                             "nid": 1030,
                             "strtype": "LABEL/Text",
-                            "strval": "",
+                            "strval": "---",
                             "InheritedType": 10
                           },
                           {
@@ -6123,7 +6122,7 @@
                           {
                             "nid": 1030,
                             "strtype": "LABEL/Text",
-                            "strval": "",
+                            "strval": "---",
                             "InheritedType": 10
                           },
                           {
@@ -6429,7 +6428,7 @@
                           {
                             "nid": 1030,
                             "strtype": "LABEL/Text",
-                            "strval": "",
+                            "strval": "---",
                             "InheritedType": 10
                           },
                           {
@@ -6735,7 +6734,7 @@
                           {
                             "nid": 1030,
                             "strtype": "LABEL/Text",
-                            "strval": "",
+                            "strval": "---",
                             "InheritedType": 10
                           },
                           {
@@ -17837,7 +17836,7 @@
     "theme_color1": 5,
     "theme_color2": 0,
     "custom_variable_prefix": "uic",
-    "backup_cnt": 239,
+    "backup_cnt": 243,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",
