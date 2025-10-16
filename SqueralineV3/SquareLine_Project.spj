@@ -2227,7 +2227,8 @@
                 "InheritedType": 11
               }
             ],
-            "saved_objtypeKey": "CONTAINER"
+            "saved_objtypeKey": "CONTAINER",
+            "tree_closed": true
           },
           {
             "guid": "GUID13521727-814052S19134272",
@@ -2937,7 +2938,7 @@
                   {
                     "nid": 70,
                     "strtype": "OBJECT/Align",
-                    "strval": "CENTER",
+                    "strval": "RIGHT_MID",
                     "InheritedType": 3
                   },
                   {
@@ -3314,7 +3315,7 @@
                   {
                     "nid": 1020,
                     "strtype": "IMAGE/Asset",
-                    "strval": "assets/done.png",
+                    "strval": "assets/NewToy.png",
                     "InheritedType": 5
                   },
                   {
@@ -4209,7 +4210,7 @@
                       {
                         "nid": 10,
                         "strtype": "OBJECT/Name",
-                        "strval": "lblNgCounterPercent",
+                        "strval": "lblNgPercent",
                         "InheritedType": 10
                       },
                       {
@@ -4240,8 +4241,8 @@
                         "flags": 17,
                         "strtype": "OBJECT/Position",
                         "intarray": [
-                          320,
-                          -25
+                          272,
+                          39
                         ],
                         "InheritedType": 7
                       },
@@ -4344,8 +4345,8 @@
                                 "nid": 10410,
                                 "strtype": "_style/Text_Color",
                                 "intarray": [
-                                  0,
-                                  0,
+                                  255,
+                                  4,
                                   0,
                                   255
                                 ],
@@ -4921,7 +4922,7 @@
                         "strtype": "OBJECT/Position",
                         "intarray": [
                           0,
-                          95
+                          92
                         ],
                         "InheritedType": 7
                       },
@@ -5034,7 +5035,7 @@
                               {
                                 "nid": 10450,
                                 "strtype": "_style/Text_Font",
-                                "strval": "montserrat_28",
+                                "strval": "tiengvietsieudam24",
                                 "InheritedType": 3
                               }
                             ],
@@ -5352,6 +5353,176 @@
                       }
                     ],
                     "saved_objtypeKey": "BUTTON"
+                  },
+                  {
+                    "guid": "GUID72645212-196382S40624289",
+                    "deepid": 2137834483,
+                    "dont_export": false,
+                    "locked": false,
+                    "properties": [
+                      {
+                        "nid": 10,
+                        "strtype": "OBJECT/Name",
+                        "strval": "lblNgTarget",
+                        "InheritedType": 10
+                      },
+                      {
+                        "nid": 20,
+                        "strtype": "OBJECT/Layout",
+                        "InheritedType": 1
+                      },
+                      {
+                        "Flow": 0,
+                        "Wrap": false,
+                        "Reversed": false,
+                        "MainAlignment": 0,
+                        "CrossAlignment": 0,
+                        "TrackAlignment": 0,
+                        "LayoutType": 0,
+                        "nid": 30,
+                        "strtype": "OBJECT/Layout_type",
+                        "strval": "No_layout",
+                        "InheritedType": 13
+                      },
+                      {
+                        "nid": 40,
+                        "strtype": "OBJECT/Transform",
+                        "InheritedType": 1
+                      },
+                      {
+                        "nid": 50,
+                        "flags": 17,
+                        "strtype": "OBJECT/Position",
+                        "intarray": [
+                          320,
+                          -25
+                        ],
+                        "InheritedType": 7
+                      },
+                      {
+                        "nid": 60,
+                        "flags": 51,
+                        "strtype": "OBJECT/Size",
+                        "intarray": [
+                          1,
+                          1
+                        ],
+                        "InheritedType": 7
+                      },
+                      {
+                        "nid": 70,
+                        "strtype": "OBJECT/Align",
+                        "strval": "CENTER",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 90,
+                        "flags": 1048576,
+                        "strtype": "OBJECT/Flags",
+                        "InheritedType": 1
+                      },
+                      {
+                        "nid": 110,
+                        "strtype": "OBJECT/Clickable",
+                        "strval": "False",
+                        "InheritedType": 2
+                      },
+                      {
+                        "nid": 225,
+                        "flags": 1048576,
+                        "strtype": "OBJECT/Scrolling",
+                        "InheritedType": 1
+                      },
+                      {
+                        "nid": 300,
+                        "strtype": "OBJECT/Scrollbar_mode",
+                        "strval": "AUTO",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 310,
+                        "strtype": "OBJECT/Scroll_direction",
+                        "strval": "ALL",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 314,
+                        "strtype": "OBJECT/Scroll_snap_x",
+                        "strval": "NONE",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 315,
+                        "strtype": "OBJECT/Scroll_snap_y",
+                        "strval": "NONE",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 320,
+                        "flags": 1048576,
+                        "strtype": "OBJECT/States",
+                        "InheritedType": 1
+                      },
+                      {
+                        "nid": 1010,
+                        "strtype": "LABEL/Label",
+                        "InheritedType": 1
+                      },
+                      {
+                        "nid": 1020,
+                        "strtype": "LABEL/Long_mode",
+                        "strval": "WRAP",
+                        "InheritedType": 3
+                      },
+                      {
+                        "nid": 1030,
+                        "strtype": "LABEL/Text",
+                        "strval": "100%",
+                        "InheritedType": 10
+                      },
+                      {
+                        "nid": 1040,
+                        "strtype": "LABEL/Recolor",
+                        "strval": "False",
+                        "InheritedType": 2
+                      },
+                      {
+                        "part": "lv.PART.MAIN",
+                        "childs": [
+                          {
+                            "nid": 10000,
+                            "strtype": "_style/StyleState",
+                            "strval": "DEFAULT",
+                            "childs": [
+                              {
+                                "nid": 10410,
+                                "strtype": "_style/Text_Color",
+                                "intarray": [
+                                  0,
+                                  0,
+                                  0,
+                                  255
+                                ],
+                                "InheritedType": 7
+                              },
+                              {
+                                "nid": 10450,
+                                "strtype": "_style/Text_Font",
+                                "strval": "tiengvietindam18",
+                                "InheritedType": 3
+                              }
+                            ],
+                            "InheritedType": 1
+                          }
+                        ],
+                        "nid": 1050,
+                        "strtype": "LABEL/Style_main",
+                        "strval": "lv.PART.MAIN, Text, Rectangle, Pad, Transform",
+                        "InheritedType": 11
+                      }
+                    ],
+                    "saved_objtypeKey": "LABEL",
+                    "tree_closed": true
                   }
                 ],
                 "dont_export": false,
@@ -5677,7 +5848,7 @@
                                   {
                                     "nid": 10450,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "tiengvietindam18",
+                                    "strval": "AnhNhatVietFont",
                                     "InheritedType": 3
                                   }
                                 ],
@@ -5983,7 +6154,7 @@
                                   {
                                     "nid": 10450,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "tiengvietindam20",
+                                    "strval": "AnhNhatVietFont",
                                     "InheritedType": 3
                                   }
                                 ],
@@ -6289,7 +6460,7 @@
                                   {
                                     "nid": 10450,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "tiengvietindam20",
+                                    "strval": "AnhNhatVietFont",
                                     "InheritedType": 3
                                   }
                                 ],
@@ -6595,7 +6766,7 @@
                                   {
                                     "nid": 10450,
                                     "strtype": "_style/Text_Font",
-                                    "strval": "tiengvietindam20",
+                                    "strval": "AnhNhatVietFont",
                                     "InheritedType": 3
                                   }
                                 ],
@@ -17666,7 +17837,7 @@
     "theme_color1": 5,
     "theme_color2": 0,
     "custom_variable_prefix": "uic",
-    "backup_cnt": 237,
+    "backup_cnt": 239,
     "autosave_cnt": 0,
     "group_color_cnt": 0,
     "lvgl_version": "8.3.11",
