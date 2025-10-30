@@ -1,0 +1,14 @@
+{
+  "codename": "FontIOS18",
+  "ttf_path": "/assets/SFPFSCProDisplay-Semibold.ttf",
+  "bin_path": "/assets\\ui_font_FontIOS18.bin",
+  "c_path": "/assets\\ui_font_FontIOS18.c",
+  "cfg_path": "/assets\\ui_font_FontIOS18.fcfg",
+  "size": 18,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [],
+  "symbols": "+,-./0123456789:!\"#$%&‘()*;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÀÁẢÃẠĂẰẮẲẴẶÂẦẤẨẪẬĐÈÉẺẼẸÊỀẾỂỄỆÌÍỈĨỊÒÓỎÕỌÔỒỐỔỖỘƠỜỚỞỠỢÙÚỦŨỤƯỪỨỬỮỰỲÝỶỸỴàáảãạăằắẳẵặâầấẩẫậđèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵ° \u0085",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
